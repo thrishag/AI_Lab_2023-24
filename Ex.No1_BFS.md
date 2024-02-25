@@ -53,6 +53,5 @@ BFS order is
 7
 8
 ```
-
 ### Result:
 Thus the breadth first search order was found sucessfully.
