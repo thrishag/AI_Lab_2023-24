@@ -72,7 +72,8 @@ american(west).
 
 
 ### Output:
-<img width="960" alt="image" src="https://github.com/thrishag/AI_Lab_2023-24/assets/98105360/28ad6a67-2e3e-4573-af38-6b6391496056">
+<img width="960" alt="image" src="https://github.com/thrishag/AI_Lab_2023-24/assets/98105360/0f034934-b244-42a6-9f4e-c9bf2e0141c7">
+
 
 
 
