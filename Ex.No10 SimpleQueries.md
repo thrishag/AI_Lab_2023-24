@@ -70,10 +70,7 @@ owns(nano,m).
 enemy(nano,america).
 american(west).
 
-
-### Output:
-
 <img width="960" alt="image" src="https://github.com/thrishag/AI_Lab_2023-24/assets/98105360/0f034934-b244-42a6-9f4e-c9bf2e0141c7">
 
-### Result:
+###Result:
 Thus the prolog programs were executed successfully and the answer of query was found.
