@@ -83,11 +83,9 @@ Step 7: Stop the program.<br>
 ```
 
 ### Output/Plan:
-```
 
 ![Screenshot 2024-03-30 160015 - Copy](https://github.com/thrishag/AI_Lab_2023-24/assets/98105360/7927a368-bbf9-44fb-af1b-e354d159325e)
 
 
-```
 ### Result:
 Thus the plan was found for the initial and goal state of given problem.
