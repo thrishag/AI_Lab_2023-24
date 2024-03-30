@@ -84,7 +84,8 @@ Step 7: Stop the program.<br>
 
 ### Output/Plan:
 
-![Screenshot 2024-03-30 160015 - Copy](https://github.com/thrishag/AI_Lab_2023-24/assets/98105360/7927a368-bbf9-44fb-af1b-e354d159325e)
+![Screenshot 2024-03-30 160928](https://github.com/thrishag/AI_Lab_2023-24/assets/98105360/c74dbfa8-e0ed-4b35-8ef7-404aedfbd9ae)
+
 
 
 ### Result:
