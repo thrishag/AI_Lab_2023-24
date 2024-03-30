@@ -46,23 +46,17 @@ Step 10 : Obtain the plan for given problem.<br>
   :effect (and (holding ?ob) (clear ?underob)
                (not (on ?ob ?underob)) (not (clear ?ob)) (not (arm-empty)))))
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-### Input 
+### Input:
+```
+(define (problem pb1)
+   (:domain blocksworld)
+   (:objects a b)
+   (:init (on-table a) (on-table b)  (clear a)  (clear b) (arm-empty))
+   (:goal (and (on a b))))
+```
 
 ### Output/Plan:
-
-
+![Screenshot 2024-03-30 194921](https://github.com/thrishag/AI_Lab_2023-24/assets/98105360/bb2ca7e6-0685-4b06-974f-cedd0d8a760b)
 
 ### Result:
 Thus the plan was found for the initial and goal state of block world problem.
