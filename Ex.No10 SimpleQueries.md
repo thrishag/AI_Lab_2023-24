@@ -22,8 +22,25 @@ Construct the FOL representation for the following sentences <br>
    Convert into clause form and Prove that John like Apple by using Prolog. <br> 
 ### Program:
 
+~~~
+likes(john,X):- 
+ food(X). 
+eats(bill,X):- 
+ eats(sue,X). 
+eats(Y,X):- 
+ food(X). 
+eats(bill,peanuts). 
+food(apple). 
+food(chicken). 
+food(peanuts).
+~~~
+
 
 ### Output:
+
+![image](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/97c0fd68-3081-4c19-a13d-98c6452325eb)
+
+
 
 ### Task 2:
 Consider the following facts and represent them in predicate form: <br>              
@@ -43,7 +60,9 @@ course(bk301,dept(havefun)).
 ```
 
 ### Output:
-<img width="960" alt="image" src="https://github.com/thrishag/AI_Lab_2023-24/assets/98105360/b2cac708-58f7-448d-9854-28da26026983">
+
+![image](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/10145381-bc51-4781-90dc-697dbd36a607)
+
 
 ### Task 3:
 Consider the statement <br> 
@@ -69,8 +88,11 @@ missile(m).
 owns(nano,m).
 enemy(nano,america).
 american(west).
+```
+Output:
 
-<img width="960" alt="image" src="https://github.com/thrishag/AI_Lab_2023-24/assets/98105360/0f034934-b244-42a6-9f4e-c9bf2e0141c7">
+![image](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/0f50a8e7-478f-4cd3-95b8-98631f4752ab)
+
 
 ###Result:
 Thus the prolog programs were executed successfully and the answer of query was found.
