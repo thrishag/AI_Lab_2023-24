@@ -1,5 +1,5 @@
 # Ex.No: 6   Logic Programming – Factorial of number   
-### DATE: 24/03/24                                                                        
+### DATE: 18/03/24                                                                        
 ### REGISTER NUMBER : 212221060286
 ### AIM: 
 To  write  a logic program  to solve Towers of Hanoi problem  using SWI-PROLOG. 
